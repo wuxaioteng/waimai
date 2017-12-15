@@ -1,0 +1,204 @@
+@import url(base.css);
+header{
+	width: 3.75rem;
+	height: 0.44rem;
+	background: #009cff;
+	display: flex;
+	align-items: center;
+}
+header .da{
+	font-size:0.16rem; 
+	color: #ffffff;
+	margin-left: 0.17rem;
+}
+header .dan{
+	font-size: 0.18rem;
+	color: #fff;
+	margin-left: 1.4rem;
+}
+.w{
+	width: 3.75rem;
+	height: 1.01rem;
+	background: #fff;
+	display: block;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border-bottom:1px solid #eeeeee; 
+	border-top: 1px solid #eeeeee;
+}
+.s{
+	margin-bottom: 5rem;
+}
+.w .mai{
+	width: 2.27rem;
+	height: 0.73rem;
+	/* background: yellow; */
+}
+.w .mai1{
+	width: 0.95rem;
+	height: 0.63rem;
+	/* background: green; */
+	margin-top: 0.11rem;
+	display: flex;
+	justify-content: flex-end;
+}
+.mai img{
+	width: 0.36rem;
+	height: 0.36rem;
+	border-radius: 0.03rem;
+	display: block;
+	margin-top: 0.05rem;
+	float: left;
+}
+.mai .ne{
+	width: 1.6rem;
+	height: 0.69rem;
+	/* background: blue; */
+	float: left;
+	margin-left: 0.1rem;
+}
+.ne .sc{
+	height:0.16rem; 
+	font-size: 0.16rem;
+	color: #000;
+}
+.ne pre{
+	height: 0.12rem;
+	font-size: 0.1rem;
+	color: #999999;
+	display: block;
+	margin-top: 0.1rem;
+}
+.ne .sc2{
+	font-size: 0.14rem;
+	color:#666666; 
+	margin-top: 0.12rem;
+}
+.mai1 .da{
+	font-size: 0.1rem;
+	color: #787878;
+	margin-right: 0.06rem;
+}
+.mai1 .da1{
+	width:0.8rem; 
+	height: 0.63rem;
+	/* background: yellow; */
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+.da1 .sa{
+	font-size: 0.14rem;
+	color: #333333;
+}
+.da1 .sa1{
+	font-size:0.12rem;
+	color:#333333; 
+	margin-left:0.4rem;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 500012 */
+  src: url('https://at.alicdn.com/t/font_500012_fnygfdkfkcsor.eot');
+  src: url('https://at.alicdn.com/t/font_500012_fnygfdkfkcsor.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_500012_fnygfdkfkcsor.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_500012_fnygfdkfkcsor.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_500012_fnygfdkfkcsor.svg#iconfont') format('svg');
+}
+
+footer{
+	width: 3.75rem;
+	height: 0.64rem;
+	background: #ffffff;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	z-index: 999;
+}
+footer .foot_s{
+	width: 3.75rem;
+	height: 0.64rem;
+}
+
+.foot_s .wei{
+	width:25%; 
+	height: 100%;
+	background: #ffffff;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wei .wei1{
+	width: 0.5rem;
+	height: 0.5rem;
+	/* background: yellowgreen; */
+	display: block;
+	margin-left: 0.38rem;
+	margin-top: 0.14rem;
+}
+.wei1 .x_s{
+	font-family: 'iconfont';
+	width: 0.2rem;
+	height: 0.2rem;
+	/* background: yellow; */
+	font-size: 0.2rem;
+	color: #737373;
+}
+.c .x_s{
+	color: #009cff;
+}
+/* .wei1 .x_s3{
+	font-family: 'iconfont';
+	font-size: 0.2rem;
+	color: #737373;
+} */
+.wei1 .x_s1{
+	width: 0.3rem;
+	font-size: 0.1rem;
+	color: #8c8c8c;
+}
+.c .x_s1{
+	color: #009cff;
+/* }
+.wei1 .x_s2{
+	width: 0.3rem;
+	font-size: 0.1rem;
+	color:#737373;
+	margin-right: 0.1rem;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

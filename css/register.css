@@ -1,0 +1,204 @@
+@import url("base.css");
+header{
+	width: 3.75rem;
+	height: 1.37rem;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+}
+.er{
+	width:1.8rem; 
+	height: 0.34rem;
+	/* background: blue; */
+}
+
+@font-face {
+  font-family: 'iconfont';  /* project id 500012 */
+  src: url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.eot');
+  src: url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.svg#iconfont') format('svg');
+}
+.er .c{
+	font-family: 'iconfont'; 
+	font-size:0.34rem; 
+	color: #1b9dff; 
+	display: block;
+}
+.yim{
+	width:1.8rem; 
+	height: 0.12rem;
+	font-size: 0.12rem;
+	color: #1b9dff; 
+	margin-left: 0.3rem;
+	margin-top: 0.1rem;
+}
+.xian{
+	width: 3.75rem;
+	height:0.23rem;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+}
+.xian .du{
+	width: 0.6rem;
+	height: 0.23rem;
+	/* background: yellow; */
+	margin-right: 0.2rem;
+}
+.du .zi{
+	font-size: 0.12rem;
+	color: #333333;	
+	margin-top: 0.03rem;
+	text-align: center;
+}
+.xian .du:last-child{
+	margin-left: 0.2rem;
+}
+.du .an{
+	font-size: 0.12rem;
+	color:  #2395ff;
+	margin-top: 0.03rem;
+	text-align: center;
+}
+.du .an1{
+	width: 0.6rem;
+	height: 0.02rem;
+	background: #2395ff;
+}
+.box{
+	width: 3.75rem;
+	height: 1.32rem;
+	background: #ffffff;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+}
+.box input{
+	width: 2.98rem;
+	height: 0.46rem;
+	display: block;
+	font-size: 0.12rem;
+	color: #a6a6a6;
+	border-radius: 0.03rem;
+	border: none;
+	border: 1px solid #dddddd;
+}
+.box input:focus{
+	outline: none;
+}
+.dia{
+	width: 0.4rem;
+	height: 0.16rem;
+	border-radius: 0.1rem;
+	border:0.01rem solid #e0e0e0;
+	position: absolute;
+	right: 0.47rem;
+	top: 0.89rem;
+	display: flex;
+	line-height: 0.16rem;
+}
+.dia .yuan{
+	width: 0.16rem;
+	height: 0.16rem;
+	border: 0.01rem solid #e0e0e0;
+	border-radius: 50%;
+}
+/* .dia .yuan1{
+	width: 0.1rem;
+	font-size: 0.02rem;
+	color: #e0e0e0;
+	margin-left: 0.05rem;
+} */
+.niu{
+	width: 3.75rem;
+	height: 0.82rem;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.niu button{
+	width:3rem; 
+	height: 0.42rem;
+	background: #4cd96f;
+	border: none;
+	display: block;
+	border-radius: 0.03rem;
+	font-size:0.16rem; 
+	color: #ecfbf0;
+}
+.niu button:focus{
+	outline: none;
+}
+.wo{
+	width: 3.75rem;
+	height: 0.13rem;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wo .me{
+	font-size: 0.12rem;
+	color: #999999;
+}
+.cv{
+	width: 3.75rem;
+	height: 2rem;
+	background: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,288 @@
+@import url(base.css);
+header{
+	width:3.75rem; 
+	height: 0.32rem;
+	background:#79471f ;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.ti{
+	font-size: 0.18rem;
+	color: #ffffff;
+	display: block;
+	margin-left: 0.16rem;
+}
+.c{
+	width: 1.4rem;
+	height: 0.2rem;
+	/* background: red; */
+	margin-right: 0.16rem;
+	margin-top: 0.1rem;
+	display: flex;
+	justify-content: space-between;
+}
+.c .s{
+	font-size:  0.2rem;
+	color:#fff;
+	display: block;
+}
+.sa{
+	width: 3.75rem;
+	height: 0.92rem;
+	background:#79471f ;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+	position: relative;
+}
+.sa .lv{
+	font-size: 0.2rem;
+	color: #ffffff;
+	margin-right: 0.38rem;
+
+}
+.sa .lv1{
+	font-size: 0.12rem;
+	color: #d0c3bb;
+	margin-left: 0.78rem;
+}
+.tu{
+	width: 0.85rem;
+	height: 0.85rem;
+	background:red;
+	position: absolute;
+	left: 0.1rem;
+	top: 0.17rem;
+}
+.tu img{
+	width: 0.85rem;
+	height: 0.85rem;
+	display: block;
+}
+.ca{
+	width: 3.75rem;
+	height: 0.35rem;
+	background: #fff;
+	display: block;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.ca .ji{
+	width: 2.1rem;
+	height: 0.15rem;
+	/* background: blue; */
+	margin-left: 0.16rem;
+	display: flex;
+	justify-content: space-between;
+	line-height: 0.15rem;
+}
+.ji .ic{
+	font-size: 0.1rem;
+	color: #ff635b;
+}
+.ji .ic2{
+	font-size: 0.1rem;
+	color: #333333;
+}
+.ca .ic1{
+	font-size: 0.06rem;
+	color: #9a9a9a;
+	display: block;
+	margin-right: 0.16rem;
+}
+.dd{
+	width: 3.75rem;
+	height: 0.49rem;
+	background:#ffffff;
+	border-bottom: 0.01rem solid #e4e4e4;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-bottom: 0.1rem;
+}
+.dd .cai{
+	height: 0.25rem;
+	font-size: 0.14rem;
+	color: #353535;
+	display: block;
+	margin-top: 0.13rem;
+}
+.cai p{
+	font-size: 0.14rem;
+	color: #353535;
+}
+.cai .sui{
+	width: 0.2rem;
+	height: 0.02rem;
+	background: #ffd161;
+	margin-top: 0.09rem;
+	margin-left: 0.05rem;
+}
+.tai{
+	width:3.75rem; 
+	height: 0.62rem;
+	background: #fff;
+	display: block;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.tai .si{
+	width: 3rem;
+	height: 0.16rem;
+	/* background: blue; */
+	border-right: 0.01rem solid #e4e4e4;
+	display: flex;
+}
+.si .pc{
+	font-size: 0.16rem;
+	color: #dfdfdf;
+	display: block;
+}
+.si p{
+	font-size: 0.16rem;
+	color: #333333; 
+	line-height: 0.16rem;
+	margin-left: 0.12rem;
+}
+.tai .pa{
+	font-size: 0.2rem;
+	color: #555555;
+	display: block;
+}
+.an{
+	width: 3.75rem;
+	height: 0.44rem;
+	background: #fff;
+	display: block;
+	border-top: 0.01rem solid #f0f0f0;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-bottom: 0.1rem;
+}
+.an .quan{
+	width:2.99rem; 
+	height: 0.17rem;
+	/* background:yellow;  */
+	display: flex;
+}
+.quan .pe{
+	font-size: 0.16rem;
+	color: #a0a0a0;
+	display: block;
+}
+.quan .son{
+	font-size: 0.16rem;
+	color: #363636;
+	margin-left: 0.12rem;
+	line-height: 0.16rem;
+}
+.an .quan1{
+	font-size: 0.12rem;
+	color: #bfbfbf;
+}
+.an1{
+	width: 3.75rem;
+	height: 0.28rem;
+	background: #fff;
+	display: block;
+	border-top: 0.01rem solid #f0f0f0;
+	padding-top: 0.16rem
+}
+.an1 .quan{
+	width:2.99rem; 
+	height: 0.17rem;
+	/* background:yellow;  */
+	display: flex;
+	margin-left: 0.16rem;
+	float: left;
+}
+.an1 .quan1{
+	font-size: 0.12rem;
+	color: #bfbfbf;
+	float: right;
+	margin-right: 0.16rem;
+}
+.jian{
+	width: 3.75rem;
+	height: 0.44rem;
+	background: #fff;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.jian .ha{
+	font-size: 0.16rem;
+	color: #ff635b;
+	display: block;
+	margin-left: 0.08rem;
+}
+.jian .ha1{
+	font-size: 0.14rem;
+	color:#333333;
+}
+.jian1{
+	width: 3.75rem;
+	height: 0.44rem;
+	background: #fff;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.jian1 .ha{
+	font-size: 0.16rem;
+	color: #c183e2;
+	display: block;
+	margin-left: 0.16rem;
+}
+.jian1 .ha1{
+	font-size: 0.14rem;
+	color:#333333;
+	margin-left: 0.12rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

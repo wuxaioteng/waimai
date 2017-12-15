@@ -1,0 +1,307 @@
+@import url(base.css);
+header{
+	width: 3.75rem;
+	height: 0.46rem;
+	background: #0093ff;
+	line-height: 0.46rem;
+}
+.wo{
+	font-size: 0.16rem;
+	color: #ffffff;
+	float: left;
+	margin-left: 0.17rem;
+}
+.wo1{
+	font-size: 0.16rem;
+	color: #ffffff;
+	float: left;
+	text-align: center;
+	margin-left: 1.4rem;
+}
+.zhu{
+	width: 3.75rem;
+	height: 1.08rem;
+	background: #0094ff;
+	display: block;
+	display: flex;
+	justify-content: space-between;
+}
+.zhu .ti{
+	width: 1.96rem;
+	height: 0.6rem;
+	/* background: green; */
+	display: block;
+	margin-left: 0.15rem;
+	margin-top: 0.23rem;
+	display: flex;
+	justify-content: space-between;
+}
+.zhu .ti1{
+	font-size: 0.1rem;
+	color: #fff;
+	display: block;
+	margin-right:0.17rem;
+	margin-top: 0.47rem;
+}
+
+@font-face {
+  font-family: 'iconfont';  /* project id 500012 */
+  src: url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.eot');
+  src: url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_500012_6c9fv4t47ulyp66r.svg#iconfont') format('svg');
+}
+.ti .de{
+	width: 0.6rem;
+	height: 0.6rem;
+	background: #ffffff;
+	border-radius: 50%; 
+	line-height: 0.6rem;
+	overflow: hidden;
+}
+.de .c{
+	font-family: 'iconfont';
+	font-size: 0.52rem;
+	color: #dcdcdc;
+	display: block;
+	text-align: center;
+	
+}
+.ti  .de1{
+	width:1.2rem; 
+	height: 0.44rem;
+	/* background:yellow;  */
+	margin-top: 0.1rem;
+}
+.de1 .zo{
+	width:0.96rem; 
+	height: 0.2rem;
+	font-size: 0.2rem;
+	color: #fff;
+}
+.de1 .zo1{
+	width: 1.2rem;
+	height: 0.12rem;
+	font-family: 'iconfont';
+	font-size: 0.12rem;
+	color: #fff;
+	margin-top: 0.1rem;
+}
+.you{
+	width: 3.75rem;
+	height: 0.83rem;
+	background: #fff;
+	border-bottom: 1px solid #f5f5f5;
+	margin-bottom: 0.1rem;
+}
+.you .yo{
+	width: 50%;
+	height: 0.83rem;
+	background:#fff;
+	float: left;
+	border-right: 0.01rem solid #f5f5f5;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+.you .yo:last-child{
+	border-right: none;
+}
+.yo .cu{
+	font-family: 'iconfont';
+	font-size: 0.26rem;
+	color: #ff5f3e;
+}
+.yo .hui{
+	font-size: 0.12rem;
+	color: #666666;
+}
+.you .yo:last-child .cu{
+	color: #6ac20b;
+}
+.di{
+	width:3.75rem;
+	height:  0.44rem;
+	background: #ffffff;
+	border-bottom: 0.01rem solid #f5f5f5;
+	border-top: 0.01rem solid #f5f5f5;
+	display: block;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 0.09rem;
+}
+.dc{
+	margin-bottom:0rem;
+}
+
+.di .di1{
+	width: 0.92rem;
+	height: 0.18rem;
+	/* background: blue; */
+	margin-left: 0.15rem;
+	display: flex;
+}
+.dd .di1{
+	width: 1.4rem;
+}
+.di .di2{
+	width: 0.06rem;
+	height: 0.1rem;
+	font-size: 0.1rem;
+	color: #bbbbbb;
+	margin-right:0.12rem ;
+}
+.di1 .d{
+	font-family: 'iconfont';
+	font-size: 0.18rem;
+	color: #4aa5f0;
+	display: block;
+}
+.di1 .zi{
+	font-size: 0.14rem;
+	color: #333333;
+	margin-left: 0.1rem;
+}
+.de{
+	margin-bottom: 0.5rem;
+}
+/* 结尾 */
+footer{
+	width: 3.75rem;
+	height: 0.64rem;
+	background: #ffffff;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	z-index: 999;
+}
+footer .foot_s{
+	width: 3.75rem;
+	height: 0.64rem;
+}
+
+.foot_s .wei{
+	width:25%; 
+	height: 100%;
+	background: #ffffff;
+	float: left;
+}
+.wei .wei1{
+	width: 0.16rem;
+	height: 0.16rem;
+	/* background: yellowgreen; */
+	display: block;
+	margin-left: 0.38rem;
+	margin-top: 0.14rem
+}
+.wei1 .x_s{
+	font-family: 'iconfont';
+	width: 0.2rem;
+	height: 0.2rem;
+	/* background: yellow; */
+	font-size: 0.2rem;
+	color: #737373;
+}
+.wei1 .x_s3{
+	font-family: 'iconfont';
+	font-size: 0.2rem;
+	color: #737373;
+}
+.wei1 .x_s1{
+	width: 0.3rem;
+	font-size: 0.1rem;
+	color: #8c8c8c;
+	/* text-align: center; */
+}
+.wei1 .x_s2{
+	width: 0.3rem;
+	font-size: 0.1rem;
+	color:#737373;
+	/* text-align: center; */
+	margin-right: 0.1rem;
+}
+.lc .x_s{
+	color: #0094ff;
+}
+.lc .x_s1{
+	color: #0094ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
